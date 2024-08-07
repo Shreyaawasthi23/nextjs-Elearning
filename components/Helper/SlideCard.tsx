@@ -40,3 +40,4 @@ const SlideCard = ({image,name,role}:Props) => {
 }
 
 export default SlideCard
+
